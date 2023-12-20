@@ -42,6 +42,9 @@ To create the solid model from given drawing and section the solid model
 
 ## OUTPUT:
 
+![EDM Ex4 1_page-0001](https://github.com/Ravi-1105/EDM-EX-No.4.1/assets/139841688/9c3bc0e2-6aca-43ae-8901-4d667e376a0a)
+
+
 ## RESULT:
 
 Thus, the cut section for solid model is created.
